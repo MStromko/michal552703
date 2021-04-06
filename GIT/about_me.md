@@ -6,6 +6,6 @@
 
 ### Praktické znalosti:
     
-    - Jazyk C - pokročilý
+- Jazyk C - pokročilý
         - Dynamická alokácia, triedenie, binárne stromy, zásobník, komresia a Hufmanovo kódovanie, Spracovanie prirozdeného jazyka (morzeovka) 
 
