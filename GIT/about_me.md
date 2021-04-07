@@ -2,7 +2,7 @@
 
 ## Niečo o mne:
 ### Škola
-Som absolventom SOŠE LH v odobre Mechanik počítačových sietí.
+Som absolventom SOŠE LH v odbore Mechanik počítačových sietí.
 Študujem na Technickej univerzite v Košiiach. Na Fakulte FEI a katedre KEMT(Katedra elektroniky a multimediálnych technológii). Môj študijný program má názov _Počítačové siete_ a som jeho študentom v druhom ročníku Bakalárskeho štúdia.
 
 ### Praktické znalosti:
