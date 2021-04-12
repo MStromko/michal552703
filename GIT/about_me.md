@@ -12,6 +12,7 @@ Som absolventom SOŠE LH v odbore Mechanik počítačových sietí.
 - Príkazový riadok v OS LINUX - základné príkazy, tvorenie alisov, základné modifikácie root súbora, tvorba skriptov napríklad na hľadanie reťazcov, sort IP adries, emailových adries (log súbory)
 - SQL databáza - mierne pokročilý - tvorenie tabuliek, selecty, sumy, max, min, if príkazy, join, concat, having, order by,...
 - Microsoft AZURE _Azure Cognitive Search_ Prácujem  na zaindexovaní jednej školskej stánky 
+- Matlab - začiatočník
 - HTML, CSS, PHP - mierne pokročilý
 - SASS, LESS - začiatočník
 - Pythhon, Java, Java script - začiatočník
