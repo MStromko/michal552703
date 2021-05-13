@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <title>Add a Record Form</title>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="stylesheet" href="style_insert.css">
+    </head>
+    <body>
+        <form action="insert.php" method="post">
+
+            <label for="firstName">First Name</label>
+            <input type="text" name="first" id="firstName">
+
+            <label for="lastName">Last Name</label>
+            <input type="text" name="second" id="lastName">
+
+            <label for="rokNarodenia">Rok Narodenia</label>
+            <input type="text" name="year_born" id="rokNarodenia">
+
+            <legend>Spracovanie osobných údajov</legend>
+
+            <input type="radio" id="suhlas" name="gdpr" value="1">
+            <label for="suhlas">Áno</label>
+            <input type="radio" id="suhlas_2" name="gdpr" value="0">
+            <label for="suhlas">Nie</label>
+            <br>
+            <label for="poznamka">Poznámka</label>
+            <textarea name="note" id="poznamka" cols="30" rows="10" maxlength="255"></textarea>
+
+            <label for="stat">Štát</label>
+            <select name="state" id="stat" >
+                <option value="1">Slovenská Republika</option>
+                <option value="2">Česká Republika</option>
+                <option value="3">Nemecko</option>
+            </select>
+
+            <label for="title">Titul</label>
+            <select name="title" id="title">
+                <option value="1">Ing.</option>
+                <option value="2">Mgr.</option>
+                <option value="3">Doc.</option>
+                <option value="4" selected="selected">None</option>
+                <option value="5">MUDr.</option>
+            </select>
+            <br>
+            <br>
+            <input type="submit" value="Submit">
+        </form>
+    </body>
+</html>
